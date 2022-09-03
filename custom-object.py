@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Python Object representing a purchase for a given amount
 #Dasha Davis
 
@@ -36,4 +37,6 @@ print('Total: ',purchase.calculateTotal(taxPercent, tipPercent))
 
 
 
+=======
+>>>>>>> 524b6baf480efbbb47f365e1c466bab85fcb2367
 

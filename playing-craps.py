@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #playing-craps.py
 """Roll TWO six-sided dice 6 million times."""
 import random
@@ -69,3 +70,6 @@ print('Craps:', craps/trials)
 print('Win:', win/trials)
 
 ##Wow! It worked!!! Dasha Davis
+=======
+
+>>>>>>> 524b6baf480efbbb47f365e1c466bab85fcb2367
